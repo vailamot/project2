@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quản lý thời gian</string>
+    <string name="toolbar_add_name">Thêm hoạt động mới</string>
+    <string name="add_title_name">Thêm hoạt động mới</string>
+    <string name="et_add_date_name">Chọn ngày tháng</string>
+    <string name="et_add_time_name">Chọn thời gian</string>
+    <string name="et_add_name_name">Nhập tên hoạt động</string>
+    <string name="et_add_locate_name">Nhập địa điểm</string>
+    <string name="tv_add_submit_name">Tạo</string>
+    <string name="tv_add_submit_update">Cập nhật</string>
+    <string name="sw_add_date_name">Hiện/Ẩn</string>
+</resources>
